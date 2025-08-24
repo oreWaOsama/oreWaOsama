@@ -19,7 +19,7 @@ I love turning ideas into high-quality digital products and contributing to open
 - 🌱 Exploring *state management, clean architecture & app scalability*
 - 🧩 Interested in *UI/UX design* and seamless user experiences
 - 🎯 Goal: Grow as a *full-stack mobile engineer* and share knowledge with the community
-- 📫 Reach me at: *osama.gabr@email.com*
+- 📫 Reach me at: *osama.gabr@mail.com*
 
 ---
 
