@@ -8,13 +8,6 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" alt="Dev working in dark mode"/>
 </p>
 
-
-
-
-
-
-
-
 ---
 
 ### 🚀 About Me
