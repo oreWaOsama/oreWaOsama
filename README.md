@@ -18,7 +18,7 @@ I care about clean code, solid architecture, and building things that actually w
 - 🔌 Experience with **WebSockets, Maps, Payment Systems & REST APIs**
 - 🧱 Passionate about **software quality, scalability & real-world delivery**
 - 🌍 Open to **full-time roles, collaborations, or any interesting opportunity**
-- 📫 Reach me at: **osama.gabr@gmail.com**
+- 📫 Reach me at: **osamagabr940@gmail.com**
 
 ---
 
@@ -32,7 +32,7 @@ I care about clean code, solid architecture, and building things that actually w
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:osama.gabr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-osama.gabr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-osamagabr940@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
