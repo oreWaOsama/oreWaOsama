@@ -103,7 +103,7 @@ I'm open to a wide range of opportunities — whatever makes sense:
 - 🚀 **Building together** — MVPs, feature work, or architecture consulting
 - 💬 **Just a conversation** — feel free to reach out
 
-> 📩 **osama.gabr@gmail.com**
+> 📩 **osamagabr940@gmail.com**
 
 ---
 
