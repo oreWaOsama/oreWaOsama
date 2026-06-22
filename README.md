@@ -59,7 +59,7 @@ I care about clean code, solid architecture, and building things that actually w
 
 ## 🌟 Featured Projects
 
-### 📦 StoorLoop — Marketplace App
+### 📦 StorLoop — Marketplace App
 > *Live on Google Play & App Store*
 
 A cross-platform marketplace for **parking spaces, storage units, and pet care services**.  
